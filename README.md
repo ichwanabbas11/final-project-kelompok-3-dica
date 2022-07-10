@@ -13,6 +13,6 @@ Problem: regression / classification (hapus yang tidak relevan)
 
 Final Model: Linear Regression
 
-Link Repositori: <link menuju repositori ini>
+Link Repositori: https://github.com/ichwanabbas11/final-project-kelompok-3-dica.git
 
 Link PPT: <link presentasi dalam google slides> 
