@@ -9,7 +9,7 @@ Nama Dataset: Car Price Prediction
 
 Link Dataset: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction 
 
-Problem: regression / classification (hapus yang tidak relevan)
+Problem: regression 
 
 Final Model: Linear Regression
 
