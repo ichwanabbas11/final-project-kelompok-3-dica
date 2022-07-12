@@ -15,4 +15,4 @@ Final Model: Linear Regression
 
 Link Repositori: https://github.com/ichwanabbas11/final-project-kelompok-3-dica.git
 
-Link PPT: https://docs.google.com/presentation/d/1TPI90BKaSlTzzPJvAZykzUQKPbdARPD-PXpLrV-uzvA/edit?usp=sharing
+Link PPT: https://docs.google.com/presentation/d/10VGJJ_hxpaoCO4JgLAIkjEwnE0JyvvCct7H9PvwZVQ0/edit?usp=sharing
